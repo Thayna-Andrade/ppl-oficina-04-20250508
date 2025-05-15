@@ -14,3 +14,25 @@ a:visited {
 a {
     background-color: rgb(204, 218, 254);
 }
+.caixa {
+  max-width: 400px;
+  margin: 40px auto;
+  padding: 20px;
+  border: 2px solid #595045;
+  border-radius: 15px;
+  background-color: #F2E0D5;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  font-family: Arial, sans-serif;
+  color: #260F01;
+}
+
+.caixa img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+
+.caixa strong {
+  color: #595045;
+}
